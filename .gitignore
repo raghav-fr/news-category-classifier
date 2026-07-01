@@ -1,2 +1,4 @@
 news_classifier/
 test.ipynb
+news_classifier_model/
+label_encoder.pkl
